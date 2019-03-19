@@ -21,3 +21,8 @@ On github there is a link to download repository contents as zip:
 ![](img/offline3.png)
 
 6: Choose file downloaded in step 4
+
+Now changes will be presented as diff.
+
+7: Choose Pull Zip to take over changes from Zip File
+![](img/Pull_from_zip.png)
